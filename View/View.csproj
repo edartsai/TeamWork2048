@@ -42,7 +42,7 @@
       <DependentUpon>compilerconfig.json</DependentUpon>
     </None>
     <None Include="intro\menu.json" />
-    <None Include="StyleSheet.scss" />
+    <None Include="css\StyleSheet.scss" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\jquery-ui.min.css" />
@@ -71,10 +71,10 @@
     <Content Include="js\view.js" />
     <Content Include="game2048.html" />
     <Content Include="js_lib\jquery-ui.min.js" />
-    <Content Include="StyleSheet.css">
+    <Content Include="css\StyleSheet.css">
       <DependentUpon>StyleSheet.scss</DependentUpon>
     </Content>
-    <Content Include="StyleSheet.min.css">
+    <Content Include="css\StyleSheet.min.css">
       <DependentUpon>StyleSheet.css</DependentUpon>
     </Content>
   </ItemGroup>

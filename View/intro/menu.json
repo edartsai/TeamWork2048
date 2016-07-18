@@ -22,5 +22,11 @@
     "caption": "分工",
     "description": "",
     "url": ""
+  },
+  {
+    "id": 4,
+    "caption": "DEMO",
+    "description": "",
+    "url": "View/game2048.html"
   }
 ]
