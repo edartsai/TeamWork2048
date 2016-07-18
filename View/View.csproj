@@ -59,6 +59,7 @@
     <Content Include="intro\intro01.html" />
     <Content Include="intro\intro02.html" />
     <Content Include="intro\intro03.html" />
+    <Content Include="intro\sidebar.html" />
     <Content Include="js\fb.js" />
     <Content Include="js_lib\html2canvas.js" />
     <Content Include="js\enum.js" />
